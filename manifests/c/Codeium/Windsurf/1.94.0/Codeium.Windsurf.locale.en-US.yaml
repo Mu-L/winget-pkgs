@@ -26,11 +26,11 @@ Tags:
 - editor
 - programming
 ReleaseNotes: |-
-  Quick Updates
+  Patch Fixes
 
   Fixes
-  - Fixed text wrapping layout bugs in Cascade
-  - Fixed a bug where "Show Logs" did not read the correct path
+  - Fixed tool calls errors, specifically around invalid tool calls by the model
+  - Fixed Web Search setting uavailable message option
 ReleaseNotesUrl: https://codeium.com/changelog
 PurchaseUrl: https://codeium.com/pricing
 Documentations:
